@@ -1,4 +1,4 @@
 # Alura: Java
 
-Este repositorio tem como objetivo guardar os códigos desenvolvidos em alguns cursos da Alura.
+Neste diretório temos alguns cursos da **Alura** de **Java** para Web.
 
